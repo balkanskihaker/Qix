@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/balkanskihaker/Desktop/Qix_final/build/qix'
+relocations:     []
+...
